@@ -7,3 +7,5 @@ npm-debug.log
 /bench/bem-xjst-*/
 /bench/dat-*/
 /bench/web-data/
+
+/lib/bemxjst/class-builder.js
