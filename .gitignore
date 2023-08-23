@@ -10,3 +10,4 @@ npm-debug.log
 
 /lib/bemxjst/class-builder.js
 /lib/bemxjst/error.js
+/lib/bemxjst/utils.js
